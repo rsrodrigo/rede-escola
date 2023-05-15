@@ -1,0 +1,5 @@
+node_modules
+output
+*.traineddata
+testee.js
+e2e/Java
