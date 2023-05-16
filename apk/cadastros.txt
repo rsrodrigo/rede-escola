@@ -1,0 +1,41 @@
+Senhas: Dsi305@
+
+------------------ Cadastro -1 ------------------
+Nome: 
+CPF: 
+e-mail: 
+Celular: 
+
+----------------------------------------> DADOS 0 <----------------------------------------
+
+------------------ Cadastro 0 ------------------
+Nome: Rodrigo Rosa
+CPF: 16276081760
+e-mail: botafogo.silva.02@hotmail.com
+Celular: (21) 968808381
+
+------------------ Cadastro 1 ------------------
+Nome: Teste 1
+CPF: 492.598.890-57
+e-mail: rodrigo.silva.02@hotmail.com
+Celular: (21) 99313-4163
+
+------------------ Cadastro 2 ------------------
+Nome: Policial Cunha Silva
+CPF: 018.292.640-01
+e-mail: 4anosdebolsomito@gmail.com
+Celular: (21) 99095-9053
+
+----------------------------------------> DADOS 1 <----------------------------------------
+
+------------------ Cadastro 3 ------------------
+Nome: João Silva
+CPF: 173.104.960-94
+e-mail: xipake4970@jwsuns.com
+Celular: (84) 96779-4572
+
+------------------ Cadastro 4 ------------------
+Nome: Teste da Silva
+CPF: 787.435.730-29
+e-mail: pasoway388@carpetra.com
+Celular: (84) 97939-2763
